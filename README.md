@@ -25,6 +25,6 @@ While on the road, I'v spend some time on another passion of mine: computer prog
 
 🌱 I know a bit of Python, but I want to improve my skills. I have a plan of creating a Python interface to my OpenXLSX library. Python already have several Excel libraries, so it will mostly be for fun and to learn Python. I also want to learn C#.
 
-⚡ Being a Chemical Engineer, I have an ambition of creating a library for doing Vapor-Liquid Equilibrium (e.g. multiphase flash) calculations. No cross-platform open-source library exists for that, and the commercial products cost a small fortune. 
+⚡ Being a Chemical Engineer, I have an ambition of creating a library for doing Vapor-Liquid Equilibrium (e.g. multiphase flash) calculations. No cross-platform open-source library exists for that (that I'm aware of), and the commercial products cost a small fortune. 
 
 📫 You can reach me on kenneth.balslev@gmail.com or at my LinkedIn profile: https://www.linkedin.com/in/kennethbalslev/
