@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kenneth Troldal Balslev. I actually don't have a background in Software Engineering, but in Chemical Engineering. I have worked for 16 years in the upstream oil/gas industry, mostly as a Facilities Development Engineer, where I have worked with static and dynamic simulation, field development planning for large onshore and offshore fields, capital cost estimation, technical evaluations for M&A activities, as well as studied how new and emerging technologies can be used in the oil industry in the future.
+My name is Kenneth Troldal Balslev. I actually don't have a background in Software Engineering, but in Chemical Engineering. I have worked for 16 years in the upstream oil/gas industry with Maersk Oil and Total, mostly as a Facilities Development Engineer, where I have worked with static and dynamic simulation, field development planning for large onshore and offshore fields, capital cost estimation, technical evaluations for M&A activities, as well as studied how new and emerging technologies can be used in the oil industry in the future.
 
 I had a lot of fun in the oil industry, but a few years ago, I quit my job so I could explore Asia. I enjoyed that very much...until COVID-19 happened. So now I'm back in Denmark, and just recently began working as a project engineer at Nordic Sugar (a part of Nordzucker group). A different industry indeed, but no less interesting than the industry I worked in before.
 
